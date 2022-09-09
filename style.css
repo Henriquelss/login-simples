@@ -70,3 +70,9 @@ a {
     margin-left: 10px;
 }
 
+.error img{
+    display: flex;
+    width: 100vw;
+    height: 100vh;
+}
+
